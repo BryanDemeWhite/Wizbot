@@ -1,0 +1,2 @@
+# Wizbot
+My Discord Bot
