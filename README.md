@@ -1,5 +1,5 @@
 # Wizbot
-One of my first discord bots allows you to adventure, fight monsters, and get loot all in a discord text channel.
+One of my first discord bots. It allows you to adventure, fight monsters, and get loot all in a discord text channel.
 
 ![image](https://user-images.githubusercontent.com/79951334/230180029-255cbe66-2b10-49f2-b6c5-3b40ed6837d9.png)
 
